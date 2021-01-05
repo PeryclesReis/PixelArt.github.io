@@ -13,7 +13,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 **Ou seja, dada uma paleta de cores e um quadro composto por pixels, você vai permitir que quem usa consiga pintar o que quiser no quadro!** 👩‍🎨
 
-### 1 - A página deve possuir o título "Paleta de Cores". :heavy_check_mark
+### 1 - A página deve possuir o título "Paleta de Cores" :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
@@ -21,7 +21,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 - O texto do título deve ser **exatamente** "Paleta de Cores". :heavy_check_mark
 
-### 2 - A página deve possuir uma paleta de quatro cores distintas. :heavy_check_mark
+### 2 - A página deve possuir uma paleta de quatro cores distintas :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
@@ -41,7 +41,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 - As demais cores podem ser escolhidas livremente.
 
-### 4 - A página deve possuir um quadro de pixels, com 25 pixels. :heavy_check_mark
+### 4 - A página deve possuir um quadro de pixels, com 25 pixels. :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
@@ -53,7 +53,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 -  O quadro de "pixels" deve aparecer abaixo da paleta de cores.
 
-### 5 - Cada elemento do quadro de pixels deve possuir 40 _pixels_ de largura e 40 _pixels_ de altura e ser delimitado por uma borda preta de 1 pixel. :heavy_check_mark
+### 5 - Cada elemento do quadro de pixels deve possuir 40 _pixels_ de largura e 40 _pixels_ de altura e ser delimitado por uma borda preta de 1 pixel. :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
@@ -61,7 +61,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 - 40 pixels deve ser o tamanho total do elemento, incluindo seu conteúdo e excluindo a borda preta, que deve ser criada à parte.
 
-### 6 - Ao carregar a página, a cor **preta** da paleta já deve estar selecionada para pintar os pixels. :heavy_check_mark
+### 6 - Ao carregar a página, a cor **preta** da paleta já deve estar selecionada para pintar os pixels. :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
@@ -69,7 +69,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 - Note que o elemento que deverá receber a classe `selected` deve ser um dos elementos que possuem a classe `color`, como especificado no **requisito 2**.
 
-### 7 - Ao clicar em uma das cores da paleta, a cor selecionada é que vai ser usada para preencher os pixels no quadro.
+### 7 - Ao clicar em uma das cores da paleta, a cor selecionada é que vai ser usada para preencher os pixels no quadro. :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
@@ -79,7 +79,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 - Note que os elementos que deverão receber a classe `selected` devem ser os mesmos elementos que possuem a classe `color`, como especificado no **requisito 2**.
 
-### 8 - Ao clicar em um pixel dentro do quadro após selecionar uma cor na paleta, o pixel deve ser preenchido com esta cor.
+### 8 - Ao clicar em um pixel dentro do quadro após selecionar uma cor na paleta, o pixel deve ser preenchido com esta cor. :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
@@ -89,7 +89,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 - Somente o pixel que foi clicado deverá ser preenchido com a cor selecionada, sem influenciar na cor dos demais pixels.
 
-### 9 - Crie um botão que, ao ser clicado, limpa o quadro preenchendo a cor de todos seus pixels com branco.
+### 9 - Crie um botão que, ao ser clicado, limpa o quadro preenchendo a cor de todos seus pixels com branco. :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
