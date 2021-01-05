@@ -35,7 +35,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 - A paleta de cores não deve conter cores repetidas.
 
-### 3 - A cor **preta** deve ser a primeira na paleta de cores. :heavy_check_mark
+### 3 - A cor **preta** deve ser a primeira na paleta de cores. :heavy_check_mark:
 
 ##### As seguintes verificações serão feitas:
 
